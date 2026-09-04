@@ -55,8 +55,8 @@ If you received the `YouTube Screenshot Studio.app` file:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/Youtube_Screenshoot-safari.git
-cd Youtube_Screenshoot-safari
+git clone https://github.com/MuratBrls/Youtube-Screenshot-for-Safari.git
+cd Youtube-Screenshot-for-Safari
 
 # 2. Convert the extension to an Xcode project
 xcrun safari-web-extension-converter . \
